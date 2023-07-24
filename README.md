@@ -63,15 +63,15 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 I'm a professional Web Developer 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:0047ab,100:088f8f&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:0047ab,100:088f8f&height=14&reversal=true" width="381">
 </p>
 <h3 align="center">
 React.js            ※             Next.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12&reversal=true" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:0047ab,100:088f8f&height=12" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:0047ab,100:088f8f&height=12&reversal=true" width="340">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 <p align="center">
