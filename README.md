@@ -77,7 +77,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12&reversal=true" width="348">
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Bettenoch3&color=00aaaa&label=Visitors+counter">
+  <img src="https://komarev.com/ghpvc/?username=Bettenoch&color=00aaaa&label=Visitors+counter">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14" width="381">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14&reversal=true" width="381">
