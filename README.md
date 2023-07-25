@@ -132,7 +132,7 @@ React.js            ※            �
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-Bettenoch.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Bett's GitHub stats">
+  <img src="https://github-readme-stats-Bettenoch.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
 </p>
 <br>
 <p align="center">
