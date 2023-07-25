@@ -105,7 +105,7 @@ React.js            ※            �
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:0047ab,100:088f8f&height=12" width="340">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:0047ab,100:088f8f&height=12&reversal=true" width="340">
 </p>
-<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
+<h4 align="center"><i>"Programming is creating. It allows something new to come into existence-projecting a mental image to a real-world form" - Bill Gates</i></h4>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
@@ -132,7 +132,7 @@ React.js            ※            �
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
+  <img src="https://github-readme-stats-Bettenoch.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Bett's GitHub stats">
 </p>
 <br>
 <p align="center">
