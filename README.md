@@ -85,7 +85,7 @@ Hi there, I'm <a href="https://bettenoch.github.io/Portfolio-Setup-Mobile-First"
 </p>
 
 <h3 align="center">
-I'm a professional Web Developer 💻 with the passion to use programming to transform communities and shape businesses to top-grade levels. I am a React.js Next.js and MongoDB enthusiast. I enjoy playing chess and solving hackerank questions.
+I'm a professional Web Developer 💻 with passion to use programming to transform communities and shape businesses to top-grade levels. I am a React.js Next.js and MongoDB enthusiast. I enjoy playing chess and solving hackerank questions.
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:0047ab,100:088f8f&height=14" width="381">
