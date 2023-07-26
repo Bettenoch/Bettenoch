@@ -124,7 +124,7 @@ React.js            ※            �
 <br>
 <br>
 <br>
-<h2 align="align-center">My Stats</h2>
+<h2 align="center">My Stats</h2>
 <p align="center">
   <a href="https://github.com/Bettenoch/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-kauer3.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Bett's GitHub stats">
