@@ -127,8 +127,8 @@ React.js            ※            �
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Bett's GitHub stats">
   <br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Bettenoch&theme=react&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bettenoch&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bettenoch&layout=donut-vertical)](https://github.com/Bettenoch/github-readme-stats)
+ 
 </p>
 
 <br>
