@@ -1,5 +1,5 @@
 <h1 align="center">
-  I'm Bett Enoch
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h1>
 
 <h2 align="center">
