@@ -127,7 +127,12 @@ React.js            ※            �
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=Bettenoch&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Bett's GitHub stats">
   <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bettenoch&layout=donut-vertical)](https://github.com/Bettenoch/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
  
 </p>
 
