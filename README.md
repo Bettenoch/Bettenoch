@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello I'm Bett Enoch!&height=150&section=header"/>
-</p>
-
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  I'm Bett Enoch
 </h1>
+
+<h2 align="center">
+  Let's Connect and have a Chat!💬
+</h2>
 
 <p align="center">
 <a href="https://bettenoch.github.io/Portfolio-Setup-Mobile-First">
