@@ -32,17 +32,13 @@
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
   <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=262525">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
+   <br>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
-  <br>
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
-  <img src="https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=Vite&color=646cff">
-  <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
   <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=df4f25">
-  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624">
-  <img src="https://img.shields.io/badge/Tool-Nix-informational?style=flat&logo=NixOS&color=5275bd">
-  <img src="https://img.shields.io/badge/Tool-Neovim-informational?style=flat&logo=Neovim&color=57a143">
+ 
+ 
+  
+
   <br>
   <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
   <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
