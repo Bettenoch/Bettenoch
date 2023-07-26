@@ -7,29 +7,26 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<a href="https://bettenoch.github.io/Portfolio-Setup-Mobile-First">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/bett-kipngeno-enock-8b5153214/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
+<a href="https://medium.com/@bettenoch254">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
+<a href="https://dev.to/bettenoch">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://twitter.com/BybEnoch">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/geovision254/?hl=en">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
 
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
@@ -144,8 +141,8 @@ React.js            ※            �
 <br>
 <h2>💻 Here are some of my projects:</h2>
 <ul>
-  <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
-  <li><h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3></li>
+  <li><h3><a href="https://bettenoch.github.io/Awesome-Book-Refractor/">BookStore</a></h3></li>
+  <li><h3><a href="https://bettenoch.github.io/Webpack-Project/">TodoList</a></h3></li>
 </ul>
 <br>
 <br>
@@ -153,14 +150,14 @@ React.js            ※            �
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
 <details align="center">
-  <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
-You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
+  <summary><b>Check out my <a href="https://bettenoch.github.io/Portfolio-Setup-Mobile-First" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+You are also welcome to visit my <a href="https://www.linkedin.com/in/bett-kipngeno-enock-8b5153214/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
 
 <br>
 <table align="center">
   <tr>
-    <th><b><a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Portfolio</a></b></th>
-    <th><b><a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
+    <th><b><a href="https://bettenoch.github.io/Portfolio-Setup-Mobile-First" target="_blank" rel="noreferrer">Portfolio</a></b></th>
+    <th><b><a href="https://www.linkedin.com/in/bett-kipngeno-enock-8b5153214/" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
   </tr>
   <tr>
     <td>
