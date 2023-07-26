@@ -133,7 +133,7 @@ React.js            ※            �
 </p>
 <p align="center">
     <a href="https://github.com/Bettenoch/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettenoch&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettenoch&layout=compact&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" />
     </a>
 </p>
 
